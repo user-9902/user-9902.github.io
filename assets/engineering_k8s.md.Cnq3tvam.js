@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.CPtCmog4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"engineering/k8s.md","filePath":"engineering/k8s.md","lastUpdated":null}'),a={name:"engineering/k8s.md"};function r(s,o,i,c,d,p){return n(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};
